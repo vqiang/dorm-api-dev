@@ -1,2 +1,2 @@
-# dorm-api-dev
-dev dorm practice api
+# coupon-api
+API for our Crimson Coupon app
