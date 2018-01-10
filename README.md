@@ -1,2 +1,2 @@
-# dorm api
-API for buying dorm stuff
+# coupon-api
+API for our Crimson Coupon app
